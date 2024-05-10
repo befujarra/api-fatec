@@ -4,5 +4,5 @@ function logout() {
    // localStorage.removeItem('usuario');
 
     // Redirecionar para a página de login//
-    window.location.href = 'login.html';
+    window.location.href = 'index.html';
 }

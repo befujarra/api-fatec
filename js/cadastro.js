@@ -10,5 +10,5 @@ function salvarUsuario() {
     localStorage.setItem('usuario', JSON.stringify(usuario));
 
     // Redirecionar de volta para a página de login//
-    window.location.href = 'login.html';
+    window.location.href = 'index.html';
 }
